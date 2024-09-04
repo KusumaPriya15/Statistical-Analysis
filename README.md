@@ -1,2 +1,10 @@
 # Statistical-Analysis
-This code loads the wine dataset and summarizes it with basic statistics like mean and standard deviation. It also tests if the average alcohol content is different from a specific value, calculates a confidence interval for the mean, and examines how alcohol content relates to wine categories using regression analysis.
+## Overview
+The wine dataset is loaded and analyzed to provide basic statistics such as the average and spread of values. It checks if the average alcohol content differs from a specified value, calculates a confidence range for the mean, and explores how alcohol content relates to wine categories.
+
+
+
+
+
+
+
